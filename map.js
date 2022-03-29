@@ -54,10 +54,6 @@ function move() {
   }, 1000);
 }
 
-function reset() {
-  window.
-}
-
 // Do not edit code past this point
 if (typeof module !== "undefined") {
   module.exports = { move };
