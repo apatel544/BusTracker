@@ -20,7 +20,7 @@ mapboxgl.accessToken =
   "pk.eyJ1IjoiYXBhdGVsNTQ0IiwiYSI6ImNsMHRwM3V6eDBmZ3YzY3BiMGxrcGhvZHEifQ.vBH6eNzcAscJsO5nJbEK5w";
 const map = new mapboxgl.Map({
   container: "map", // container ID
-  style: "mapbox://styles/mapbox/satellite-v9", // style URL
+  style: "mapbox://styles/mapbox/navigation-day-v1", // style URL
   center: [-71.104081, 42.365554],
   zoom: 14,
 });
