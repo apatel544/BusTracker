@@ -6,11 +6,11 @@ Some ideas I have for this would be to reflect trips ive taken with the stops in
 
 ## How To Get Open on your local
     
-    1. You need to clone to repository and open the index.html file.
+   1. You need to clone to repository and open the index.html file.
     
-    or
+   or
     
-    2. You can navigate to: https://github.com/apatel544/BusTracker
+   2. You can navigate to: [Bus Tracker App](https://github.com/apatel544/BusTracker)
     
 
 
