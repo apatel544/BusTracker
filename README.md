@@ -1,6 +1,6 @@
 # BusTracker
 
-This is a Bus Tracker App that allows you to see all the bus stops between MIT and Harvard University.
+This is a Bus Tracker App that utilizes a Mapbox API, that tracks all the bus stops between MIT and Harvard University by manipulating the DOM which adds the animation to track the bus stops.
 
 Some ideas I have for this would be to reflect trips ive taken with the stops included so anyone can see what I do on a vacation//trip.
 
